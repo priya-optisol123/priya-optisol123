@@ -1,1 +1,1 @@
-![Priya's github stats](https://github-stats-alpha.vercel.app/api/?username=<priya-optisol123>)
+![Priya's github stats](https://github-stats-alpha.vercel.app/api/?username=priya-optisol123)
